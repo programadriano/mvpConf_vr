@@ -1,4 +1,4 @@
-"#Realidade Virtual com Unity
+#Realidade Virtual com Unity
 
 Exemplo prático utilizado no MVP Conf Latam 2109
 
